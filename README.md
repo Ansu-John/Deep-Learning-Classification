@@ -1,4 +1,4 @@
-# Cancer-Classification
+# Deep-Learning-Classification
 
 This project implemented in  python, is to build a cancer classifier using Keras. Get the images for the project from https://www.kaggle.com/paultimothymooney/breast-histopathology-images/
 
