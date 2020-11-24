@@ -14,6 +14,21 @@ Python, Keras
 
 Execute build_dataset.py to get the dataset sorted and then execute train_model.py for classification
 
+**Why deep learning:** When the amounth of data is increased, machine learning techniques are insufficient in terms of performance and deep learning gives better performance like accuracy.
+
+![DeepvsML](https://github.com/Ansu-John/Deep-Learning-Classification/blob/main/resources/DeepvsML.png)
+
+**What is amounth of big:** It is hard to answer but intuitively 1 million sample is enough to say "big amounth of data"
+
+**Usage fields of deep learning:** Speech recognition, image classification, natural language procession (nlp) or recommendation systems
+
+**What is difference of deep learning from machine learning:**
++ Machine learning covers deep learning.
++ Features are given machine learning manually.
++ On the other hand, deep learning learns features directly from data.
+
+![DeepvsML](https://github.com/Ansu-John/Deep-Learning-Classification/blob/main/resources/DeepvsML1.png)
+
 ## build_dataset.py
 
 This will split the dataset into training, validation, and testing sets in the ratio - 80% for training (of that, 10% for validation) and 20% for testing. 
